@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">CineAI Javier</string>
+
+    <string-array name="estilos">
+        <item>Cinemático</item>
+        <item>Animación</item>
+        <item>Documental</item>
+        <item>Acción</item>
+    </string-array>
+
+    <string-array name="duraciones">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+    </string-array>
+</resources>
